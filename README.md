@@ -1,6 +1,8 @@
 # README
 Thanks for your attention. The following instructions can help you reproduce the experiments.
+
 # Environment
-conda env create -f environment.yaml
+conda env create -f environments.yaml
+
 # Running
-python maml.py
+python main.py
